@@ -28,6 +28,10 @@ MultiBeast 6.0.0 was used to install the bootloader and additional kext.
 
 #Issues
 
-##iMessage
+##Intel Turbo-Boost
+
+No success here. Depending on the load the CPU is clocking 1.6 - 3.4 GHz The SSDT generation script found [here](http://www.tonymacx86.com/ssdt/86906-ssdt-generation-script-ivybridge-pm.html) worked on 10.8 but seems incompatible with 10.9. 
+
+##iMessage [solved]
 
 iMessage was unable to login after fresh installation. Adding the FileNVRAM.dylib and restarting allowed my to stay logged in for a short time before being kicked out. Reconnection was not possible: "AppleID can't be used to set up iMessage at this time". Logging out iCloud using system preferences and loggin in again allowed me to login into iMessage.
