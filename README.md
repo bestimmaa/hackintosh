@@ -16,7 +16,7 @@ The boot drive was created with Unibeast 3 and was able to boot the OS without a
 
 MultiBeast 6.0.0 was used to install the bootloader and additional kext.
 
-##MultiBeast 6.0.0 Configuration - DSDT-Free Installation
+##MultiBeast - DSDT-Free Installation
 
 * Chimera 2.2
 * Atheros Ethernet
@@ -25,6 +25,7 @@ MultiBeast 6.0.0 was used to install the bootloader and additional kext.
 * Basic Boot Options
 * Hibernate Mode - Desktop
 * TRIM Enabler
+* iMac 13,2 Definition
 
 #Issues
 
