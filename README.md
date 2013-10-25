@@ -33,7 +33,7 @@ MultiBeast 6.0.0 was used to install the bootloader and additional kext.
 
 ##Intel Turbo-Boost
 
-No success here. Depending on the load the CPU is clocking 1.6 - 3.4 GHz The SSDT generation script found [here](http://www.tonymacx86.com/ssdt/86906-ssdt-generation-script-ivybridge-pm.html) worked on 10.8 but seems incompatible with 10.9. 
+No success here. Depending on the load the CPU is clocking 1.6 - 3.4 GHz The SSDT generation script found [here](http://www.tonymacx86.com/ssdt/86906-ssdt-generation-script-ivybridge-pm.html) worked on 10.8 but seems incompatible with 10.9. Strange enough Turbo-Boost works after entering sleep mode once. 
 
 ##~~iMessage~~
 
