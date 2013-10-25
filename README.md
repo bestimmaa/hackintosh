@@ -26,6 +26,8 @@ MultiBeast 6.0.0 was used to install the bootloader and additional kext.
 * Hibernate Mode - Desktop
 * TRIM Enabler
 * iMac 13,2 Definition
+* Zenith432's GenericUSBXHCI
+* FakeSMC
 
 #Issues
 
@@ -36,3 +38,11 @@ No success here. Depending on the load the CPU is clocking 1.6 - 3.4 GHz The SSD
 ##~~iMessage~~
 
 iMessage was unable to login after fresh installation. Adding the FileNVRAM.dylib and restarting allowed my to stay logged in for a short time before being kicked out. Reconnection was not possible: "AppleID can't be used to set up iMessage at this time". Logging out iCloud using system preferences and loggin in again allowed me to login into iMessage.
+
+##USB 3.0
+
+Only USB3 devices work on the two USB3 ports of the mainboard. 
+
+##Sleep Mode
+
+Incomplete. Sleeping works but waking up by keyboard button press does not activate the monitors. A press on the power button helps with this. USB connected keyboard needs to reconnect after waking up.
