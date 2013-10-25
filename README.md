@@ -39,7 +39,7 @@ No success here. Depending on the load the CPU is clocking 1.6 - 3.4 GHz The SSD
 
 iMessage was unable to login after fresh installation. Adding the FileNVRAM.dylib and restarting allowed my to stay logged in for a short time before being kicked out. Reconnection was not possible: "AppleID can't be used to set up iMessage at this time". Logging out iCloud using system preferences and loggin in again allowed me to login into iMessage.
 
-##USB 3.0
+##~~USB 3.0~~
 
 Only USB3 devices work on the two USB3 ports of the mainboard. 
 
