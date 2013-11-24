@@ -16,6 +16,8 @@
 	<string>Yes</string>
 	<key>Timeout</key>
 	<string>2</string>
+        <key>DropSSDT</key>
+        <string>Yes</string>
         <key>GenerateCStates</key>
         <string>Yes</string>
         <key>GeneratePStates</key>
