@@ -46,3 +46,20 @@ Only USB3 devices work on the two USB3 ports of the mainboard.
 ## Sleep Mode
 
 Incomplete. Sleeping works but waking up by keyboard button press does not activate the monitors. A press on the power button helps with this. USB connected keyboard needs to reconnect after waking up.
+
+
+# Post-Installation Update: MultiBeast 6.0.1 Released 2013-11-10
+
+Updated my hackintosh with the latest MultiBeast using the same settings.
+
+## ~~USB 3.0~~
+
+USB3 and USB2 devices now work in the USB3 port of the mainboard.
+
+## Sleep Mode
+
+Computer instantly wakes up after sending it to sleep.
+
+## iMessage 
+
+Stopped working at some point after the update.
