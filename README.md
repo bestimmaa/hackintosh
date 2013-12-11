@@ -29,37 +29,7 @@ MultiBeast 6.0.0 was used to install the bootloader and additional kext.
 * Zenith432's GenericUSBXHCI
 * FakeSMC
 
-# Issues
-
-## Intel Turbo-Boost
-
-No success here. Depending on the load the CPU is clocking 1.6 - 3.4 GHz The SSDT generation script found [here](http://www.tonymacx86.com/ssdt/86906-ssdt-generation-script-ivybridge-pm.html) worked on 10.8 but seems incompatible with 10.9. Strange enough Turbo-Boost works after entering sleep mode once. 
-
-## ~~iMessage~~
-
-iMessage was unable to login after fresh installation. Adding the FileNVRAM.dylib and restarting allowed my to stay logged in for a short time before being kicked out. Reconnection was not possible: "AppleID can't be used to set up iMessage at this time". Logging out iCloud using system preferences and loggin in again allowed me to login into iMessage.
-
-## ~~USB 3.0~~
-
-Only USB3 devices work on the two USB3 ports of the mainboard. 
-
-## Sleep Mode
-
-Incomplete. Sleeping works but waking up by keyboard button press does not activate the monitors. A press on the power button helps with this. USB connected keyboard needs to reconnect after waking up.
-
-
-# Post-Installation Update: MultiBeast 6.0.1 Released 2013-11-10
+# Post-Installation Update - MultiBeast 6.0.1 Released 2013-11-10
 
 Updated my hackintosh with the latest MultiBeast using the same settings.
 
-## ~~USB 3.0~~
-
-USB3 and USB2 devices now work in the USB3 port of the mainboard.
-
-## Sleep Mode
-
-Computer instantly wakes up after sending it to sleep.
-
-## iMessage 
-
-Stopped working at some point after the update.
