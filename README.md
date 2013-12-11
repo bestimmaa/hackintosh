@@ -29,7 +29,7 @@ MultiBeast 6.0.0 was used to install the bootloader and additional kext.
 * Zenith432's GenericUSBXHCI
 * FakeSMC
 
-# Post-Installation Update - MultiBeast 6.0.1 Released 2013-11-10
+## Post-Installation Update - MultiBeast 6.0.1 Released 2013-11-10
 
 Updated my hackintosh with the latest MultiBeast using the same settings.
 
