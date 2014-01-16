@@ -28,5 +28,15 @@ The boot drive was created with [Unibeast 3](http://www.tonymacx86.com/downloads
 * Zenith432's GenericUSBXHCI
 * FakeSMC
 
+
+## MultiBeast 6.1 (2014-01-05) Configuration
+
+After installation of OS X 10.9.1 Combo Update:
+
+* Reinstalling audio driver
+* Reinstalling TRIM enabler
+* Reinstalling FakeSMC + Plugins + HWMonitior.app
+
+
 The currently installed kext files are listed in [this file](installed_kext.txt)
 
