@@ -13,6 +13,8 @@ This is to share the configuration and track issues for my hackintosh on intels 
 
 The boot drive was created with [Unibeast 3](http://www.tonymacx86.com/downloads.php?do=file&id=202) and was able to boot the OS without any flags. [MultiBeast 6](http://www.tonymacx86.com/downloads.php?do=file&id=206) was used with the following configuration for post installation.
 
+The currently installed kext files are listed in [this file](installed_kext.txt)
+
 ## MultiBeast 6.0.1 (2013-11-10) Configuration
 
 *DSDT-Free Installation*
@@ -28,5 +30,8 @@ The boot drive was created with [Unibeast 3](http://www.tonymacx86.com/downloads
 * Zenith432's GenericUSBXHCI
 * FakeSMC
 
-The currently installed kext files are listed in [this file](installed_kext.txt)
+## OS X 10.9.2 Update - MultiBeast 6.2.1 (2014-03-05)
 
+Just installed the updated and reinstalled the following kext using MultiBeast
+
+![MultiBeast Settings]()
