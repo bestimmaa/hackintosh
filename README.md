@@ -41,6 +41,6 @@ After installation of OS X 10.9.1 Combo Update:
 
 ## OS X 10.9.2 - MultiBeast 6.2.1 (2014-03-05)
 
-Just installed the updated and reinstalled the following kext using MultiBeast
+Just installed the update and reinstalled the following kext using MultiBeast
 
 ![MultiBeast Settings](https://github.com/bestimmaa/hackintosh/blob/master/screenshots/1092_update.png?raw=true)
