@@ -30,7 +30,16 @@ The currently installed kext files are listed in [this file](installed_kext.txt)
 * Zenith432's GenericUSBXHCI
 * FakeSMC
 
-## OS X 10.9.2 Update - MultiBeast 6.2.1 (2014-03-05)
+
+## OS X 10.9.1 - MultiBeast 6.1 (2014-01-05) 
+
+After installation of OS X 10.9.1 Combo Update:
+
+* Reinstalling audio driver
+* Reinstalling TRIM enabler
+* Reinstalling FakeSMC + Plugins + HWMonitior.app
+
+## OS X 10.9.2 - MultiBeast 6.2.1 (2014-03-05)
 
 Just installed the updated and reinstalled the following kext using MultiBeast
 
