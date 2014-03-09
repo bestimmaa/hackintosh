@@ -43,4 +43,4 @@ After installation of OS X 10.9.1 Combo Update:
 
 Just installed the updated and reinstalled the following kext using MultiBeast
 
-![MultiBeast Settings]()
+![MultiBeast Settings](https://github.com/bestimmaa/hackintosh/blob/master/screenshots/1092_update.png?raw=true)
