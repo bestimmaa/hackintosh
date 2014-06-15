@@ -19,16 +19,13 @@ The currently installed kext files are listed in [this file](installed_kext.txt)
 
 *DSDT-Free Installation*
 
-* Chimera 2.2
 * Atheros Ethernet
 * Realtec 887 Current
 * Generate P-States
 * Basic Boot Options
-* Hibernate Mode - Desktop
 * TRIM Enabler
 * iMac 13,2 Definition
 * Zenith432's GenericUSBXHCI
-* FakeSMC
 
 
 ## OS X 10.9.1 - MultiBeast 6.1 (2014-01-05) 
