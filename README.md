@@ -44,4 +44,5 @@ Just installed the update and reinstalled the following kext using MultiBeast
 
 ## OS X 10.9.3 - MultiBeast 6.3 (2014-05-27)
 
-Everything went fine, no problems. 
+Just installed the update and reinstalled MultiBeast 6.3 with the previous settings.
+
