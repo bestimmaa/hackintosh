@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>SMfamily</key>
-	<string>iMac</string>
+	<string>Mac Pro</string>
 	<key>SMproductname</key>
-	<string>iMac13,2</string>
+	<string>MacPro3,1</string>
 	<key>SMboardproduct</key>
-	<string>Mac-FC02E91DDD3FA6A4</string>
+	<string>Mac-F42C88C8</string>
 	<key>SMserial</key>
-	<string>C02KF8QCF29N</string>
+	<string>G8838YKH5J4</string>
 	<key>SMbiosversion</key>
 	<string>MultiBeast.tonymacx86.com</string>
 </dict>

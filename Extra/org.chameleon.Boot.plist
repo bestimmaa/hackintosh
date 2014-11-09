@@ -8,21 +8,25 @@
 	<string>No</string>
 	<key>IGPEnabler</key>
 	<string>Yes</string>
-	<key>Kernel</key>
-	<string>mach_kernel</string>
 	<key>Kernel Flags</key>
-        <string> -v</string>
+	<string>kext-dev-mode=1 darkwake=0 dart=0</string>
 	<key>Legacy Logo</key>
 	<string>Yes</string>
 	<key>Timeout</key>
 	<string>2</string>
+        <key>HDEFLayoutID</key>
+        <string>01000000</string>
         <key>GenerateCStates</key>
         <string>Yes</string>
         <key>GeneratePStates</key>
         <string>Yes</string>
         <key>UseKernelCache</key>
         <string>Yes</string>
-        <key>Kernel Flags</key>
-    <string>darkwake=0 dart=0</string>
+        <key>HDAEnabler</key>
+        <string>Yes</string>
+	<key>Rename Partition</key>
+	<string>"System Reserved" Win 8.1</string>
+	<key>Hide Partition</key>
+ 	<string>"WIN_DATA" "WIN_BACKUP"</string>
 </dict>
 </plist>
