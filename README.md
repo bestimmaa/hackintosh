@@ -25,3 +25,8 @@ Start with _Optimized Defaults_...
 
 ## Additional Flags in */Extra/org.chameleon.Boot.plist*
 * Add the "darkwake=0" and "dart=0" flags to your *org.chameleon.Boot.plist* to enable booting with VT-d enabled
+
+# Benchmark
+
+[Geekbench3 Results](http://browser.primatelabs.com/geekbench3/1220933)
+
