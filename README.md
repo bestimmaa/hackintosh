@@ -13,6 +13,10 @@ This is to share the configuration and track issues for my hackintosh on intels 
 # Installation - Mac OS X 10.10
 
 ## UEFI / BIOS Settings
+
+Start with _Optimized Defaults_...
+
+* Enable _AHCI_
 * Disable _VT-d_ (You can enable it again after finishing installation and adding two flags)
 * Disable CPU _EIST_ (This might enable TurboBoost speeds for your CPU, use HWMonitor.app to check for temperature and clock speeds!)
 
