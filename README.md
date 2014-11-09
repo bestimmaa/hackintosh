@@ -11,8 +11,13 @@ This is to share the configuration and track issues for my hackintosh on intels 
 * TP-LINK TL-WDN4800 WiFi
 
 # Installation - Mac OS X 10.10
+
 ## UEFI / BIOS Settings
-* Disable VT-d (You can enable it again after finishing installation and adding two flags)
-* Disable CPU EIST (This might enable TurboBoost speeds for your CPU, use HWMonitor.app to check for temperature and clock speeds!) 
-## Additional Flags
-* Add the "darkwake=0" and "dart=0" flags to your boot.plist to enable booting with VT-d enabled )
+* Disable _VT-d_ (You can enable it again after finishing installation and adding two flags)
+* Disable CPU _EIST_ (This might enable TurboBoost speeds for your CPU, use HWMonitor.app to check for temperature and clock speeds!)
+
+## MultiBeast 7.02 Settings
+![multibeast settings](https://github.com/bestimmaa/hackintosh/blob/master/screenshots/multibeast7_settings.png)
+
+## Additional Flags in */Extra/org.chameleon.Boot.plist*
+* Add the "darkwake=0" and "dart=0" flags to your *org.chameleon.Boot.plist* to enable booting with VT-d enabled
