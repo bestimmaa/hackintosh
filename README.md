@@ -12,6 +12,9 @@ This is to share the configuration and track issues for my hackintosh on intels 
 
 # Installation - Mac OS X 10.10
 ## UEFI / BIOS Settings
+* Disable VT-d (You can enable it again after finishing installation and adding two flags)
+* Disable CPU EIST (This might enable TurboBoost speeds for your CPU, use HWMonitor.app to check for temperature and clock speeds!) 
 ## MultiBeast 7 Settings
 ## Additional Flags
+* Add the "darkwake=0" and "dart=0" flags to your boot.plist to enable booting with VT-d enabled 
 
