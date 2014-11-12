@@ -17,7 +17,7 @@ This is to share the configuration and track issues for my hackintosh on intels 
 Start with _Optimized Defaults_...
 
 * Enable _AHCI_
-* Disable _VT-d_ (You can enable it again after finishing installation and adding two flags)
+* Disable _[Intel VT-d](https://software.intel.com/en-us/blogs/2009/06/25/understanding-vt-d-intel-virtualization-technology-for-directed-io/)_ (You can enable it again after finishing installation and adding two flags)
 * Disable CPU _EIST_ (This might enable TurboBoost speeds for your CPU, use HWMonitor.app to check for temperature and clock speeds!)
 
 ## MultiBeast 7.02 Settings
