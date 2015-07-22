@@ -20,13 +20,21 @@ Start with _Optimized Defaults_...
 * Disable _[Intel VT-d](https://software.intel.com/en-us/blogs/2009/06/25/understanding-vt-d-intel-virtualization-technology-for-directed-io/)_ (You can enable it again after finishing installation and adding two flags)
 * Disable CPU _EIST_ (This might enable TurboBoost speeds for your CPU, use HWMonitor.app to check for temperature and clock speeds!)
 
-## MultiBeast 7.02 Settings
-![multibeast settings](https://github.com/bestimmaa/hackintosh/blob/master/screenshots/multibeast7_settings.png)
+## MultiBeast 7.04 Settings
+
+MultiBeast Configuration - 2015-07-22 08:00:11 ----------------------------------------------------------------- Quick Start > DSDT Free
+Drivers > Disk > TRIM Enabler > 10.10.3 TRIM Patch Drivers > Misc > FakeSMC v6.16.1372
+Drivers > Misc > FakeSMC Plugins v6.16.1372
+Drivers > Misc > FakeSMC HWMonitor Application v6.16.1372 Drivers > Network > Atheros > AtherosL1cEthernet 1.2.3 Bootloaders > Chimera v4.1.0
+Customize > Boot Options > Basic Boot Options
+Customize > Boot Options > Hibernate Mode - Desktop Customize > Boot Options > Kext Dev Mode
+Customize > Boot Options > Use KernelCache
+Customize > System Definitions > iMac > iMac 13,2 Customize > Themes > tonymacx86 Black
+
 
 ## Additional Flags in */Extra/org.chameleon.Boot.plist*
 * Add the "darkwake=0" and "dart=0" flags to your *org.chameleon.Boot.plist* to enable booting with VT-d enabled
 
 # Benchmark
 
-[Geekbench3 Results](http://browser.primatelabs.com/geekbench3/1220933)
 
