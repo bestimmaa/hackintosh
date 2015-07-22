@@ -38,7 +38,7 @@ MultiBeast Configuration - 2015-07-22 08:00:11
 Add the "darkwake=0" and "dart=0" flags to your *org.chameleon.Boot.plist* to enable booting with VT-d enabled
 
 ## SSDT for TurboBoost
-Using a SSDT file might enable TurboBoost for your CPU. In my expericene it depends on System Definition and CPU model.In my case using a generated SSDT took my i5-3570 only up to 3.6Ghz instead of the supported 3.8Ghz. This the exact TurboBoost speed of the entry iMac 13,2 which comes with a Core i5-3470.   
+Using a SSDT file might enable TurboBoost for your CPU. In my expericene it depends on System Definition and CPU model.In my case using a generated SSDT took my i5-3570 only up to 3.6Ghz instead of the supported 3.8Ghz [see the issue](https://github.com/bestimmaa/hackintosh/issues/12). This the exact TurboBoost speed of the entry iMac 13,2 which comes with a Core i5-3470.   
 
 [tkrotoff](https://github.com/tkrotoff/Gigabyte-GA-Z77-DS3H-rev1.1-Hackintosh/issues/2) however was more sucessfull using a i7-3770, one of the cpu models used in the iMac 13,2. 
 
