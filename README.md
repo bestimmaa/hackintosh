@@ -42,7 +42,7 @@ Using a SSDT file might enable TurboBoost for your CPU. In my expericene it depe
 
 [tkrotoff](https://github.com/tkrotoff/Gigabyte-GA-Z77-DS3H-rev1.1-Hackintosh/issues/2) however was more sucessfull using a i7-3770, one of the cpu models used in the iMac 13,2. 
 
-Generate SSDT with the [ssdtPRGen script](https://github.com/Piker-Alpha/ssdtPRGen.sh) utility. Make sure it ends up in the Exras folder. Set the "DropSSDT=Yes" flag in your *org.chameleon.Boot.plist* and disable "GeneratePStates=Yes" and "GeneratePStates=Yes" flags.
+Generate SSDT with the [ssdtPRGen script](https://github.com/Piker-Alpha/ssdtPRGen.sh) utility. Make sure *ssdt.aml* ends up in the Exras folder. Set the "DropSSDT=Yes" flag in your *org.chameleon.Boot.plist* and disable "GeneratePStates=Yes" and "GeneratePStates=Yes" flags.
 
 
 
