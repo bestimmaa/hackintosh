@@ -22,14 +22,16 @@ Start with _Optimized Defaults_...
 
 ## MultiBeast 7.04 Settings
 
-MultiBeast Configuration - 2015-07-22 08:00:11 ----------------------------------------------------------------- Quick Start > DSDT Free
-Drivers > Disk > TRIM Enabler > 10.10.3 TRIM Patch Drivers > Misc > FakeSMC v6.16.1372
-Drivers > Misc > FakeSMC Plugins v6.16.1372
-Drivers > Misc > FakeSMC HWMonitor Application v6.16.1372 Drivers > Network > Atheros > AtherosL1cEthernet 1.2.3 Bootloaders > Chimera v4.1.0
-Customize > Boot Options > Basic Boot Options
-Customize > Boot Options > Hibernate Mode - Desktop Customize > Boot Options > Kext Dev Mode
-Customize > Boot Options > Use KernelCache
-Customize > System Definitions > iMac > iMac 13,2 Customize > Themes > tonymacx86 Black
+MultiBeast Configuration - 2015-07-22 08:00:11 
+
+* Quick Start > DSDT Free
+* Drivers > Disk > TRIM Enabler > 10.10.3 TRIM Patch Drivers > Misc > FakeSMC v6.16.1372
+* Drivers > Misc > FakeSMC Plugins v6.16.1372
+* Drivers > Misc > FakeSMC HWMonitor Application v6.16.1372 Drivers > Network > Atheros > AtherosL1cEthernet 1.2.3 * Bootloaders > Chimera v4.1.0
+* Customize > Boot Options > Basic Boot Options
+* Customize > Boot Options > Hibernate Mode - Desktop Customize > Boot Options > Kext Dev Mode
+* Customize > Boot Options > Use KernelCache
+* Customize > System Definitions > iMac > iMac 13,2 Customize > Themes > tonymacx86 Black
 
 
 ## Additional Flags in */Extra/org.chameleon.Boot.plist*
