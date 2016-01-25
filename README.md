@@ -10,6 +10,13 @@ This is to share the configuration and track issues for my hackintosh on intels 
 * Samsung 840 PRO 256 GB SSD
 * TP-LINK TL-WDN4800 WiFi
 
+# Installation - Mac OS X 10.11
+
+UniBeast...
+
+## MultiBeast 8.0.1 Setting
+
+
 # Installation - Mac OS X 10.10
 
 ## UEFI / BIOS Settings
